@@ -43,7 +43,6 @@ Full Stack Developer from Salem, Tamil Nadu, India, focused on backend engineeri
 ![HTML5](https://img.shields.io/badge/HTML5-050816?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-050816?style=flat-square&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-050816?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-050816?style=flat-square&logo=react&logoColor=38BDF8)
 
 **Backend**
 ![Python](https://img.shields.io/badge/Python-050816?style=flat-square&logo=python&logoColor=3776AB)
@@ -61,7 +60,6 @@ Full Stack Developer from Salem, Tamil Nadu, India, focused on backend engineeri
 ![Git](https://img.shields.io/badge/Git-050816?style=flat-square&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-050816?style=flat-square&logo=github&logoColor=F8FAFC)
 ![VS Code](https://img.shields.io/badge/VS_Code-050816?style=flat-square&logo=visualstudiocode&logoColor=38BDF8)
-![Docker](https://img.shields.io/badge/Docker-050816?style=flat-square&logo=docker&logoColor=2496ED)
 ![Postman](https://img.shields.io/badge/Postman-050816?style=flat-square&logo=postman&logoColor=FF6C37)
 
 **Automation**
